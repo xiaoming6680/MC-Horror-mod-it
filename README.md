@@ -54,7 +54,6 @@ build/libs/it-2.3.0.jar
 build/libs/it-2.3.0-sources.jar
 ```
 
-发布到 GitHub 时，源码仓库不应提交 `build/`、`.gradle/`、`run/` 或 IDE 本地配置；发布 jar 应通过 Releases 上传。
 
 ## 测试命令
 
