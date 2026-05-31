@@ -1,0 +1,16 @@
+{
+  "modmenu.descriptionTranslation.it": "A restrained psychological horror mod for multiplayer survival.",
+  "command.it.watching.get": "Watching level: %s",
+  "command.it.watching.set": "Watching level set to %s",
+  "command.it.fakechat.disabled": "Fake chat is disabled in the config.",
+  "command.it.fakechat.sent": "Fake chat event sent.",
+  "command.it.cavesound.disabled": "Cave sounds are disabled in the config.",
+  "command.it.cavesound.played": "Cave sound event played.",
+  "command.it.mining.disabled": "Mining echoes are disabled in the config.",
+  "command.it.mining.played": "Mining echo event played.",
+  "command.it.watcher.spawned": "Forced a Watcher to spawn.",
+  "command.it.watcher.spawn_failed": "Could not find a safe position for a Watcher.",
+  "command.it.watcher.cleared": "Cleared %s Watcher(s).",
+  "item.it.receiver": "Receiver",
+  "entity.it.watcher": "Watcher"
+}

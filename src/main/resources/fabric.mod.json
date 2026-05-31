@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "it",
+  "version": "${version}",
+  "name": "It",
+  "description": "Something quiet has been added to your world. Keep playing.",
+  "authors": [
+    "XM6680"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.xm6680.it.ItMod"
+    ],
+    "client": [
+      "com.xm6680.it.client.ItModClient"
+    ]
+  },
+  "mixins": [
+    "it.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric-api": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}

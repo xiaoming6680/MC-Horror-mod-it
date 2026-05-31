@@ -1,0 +1,16 @@
+{
+  "modmenu.descriptionTranslation.it": "适合多人生存的克制型心理恐怖模组。",
+  "command.it.watching.get": "被注视值：%s",
+  "command.it.watching.set": "被注视值已设置为 %s",
+  "command.it.fakechat.disabled": "配置文件已关闭假聊天。",
+  "command.it.fakechat.sent": "已发送一次假聊天事件。",
+  "command.it.cavesound.disabled": "配置文件已关闭洞穴脚步声。",
+  "command.it.cavesound.played": "已播放一次洞穴脚步声事件。",
+  "command.it.mining.disabled": "配置文件已关闭挖掘回声。",
+  "command.it.mining.played": "已播放一次挖掘回声事件。",
+  "command.it.watcher.spawned": "已强制生成一个 Watcher。",
+  "command.it.watcher.spawn_failed": "没有找到安全位置生成 Watcher。",
+  "command.it.watcher.cleared": "已清理 %s 个 Watcher。",
+  "item.it.receiver": "旧式接收器",
+  "entity.it.watcher": "Watcher"
+}

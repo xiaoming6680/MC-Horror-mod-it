@@ -1,0 +1,40 @@
+# Gradle and Fabric Loom
+/.gradle/
+/build/
+/out/
+/run/
+/remappedSrc/
+
+# Java build output and diagnostics
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+*.hprof
+
+# Minecraft local runtime data
+/config/
+/crash-reports/
+/logs/
+/saves/
+
+# IDE and editor files
+/.idea/
+/.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment and Codex planning notes
+.env
+.env.*
+task_plan.md
+findings.md
+progress.md

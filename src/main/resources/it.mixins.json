@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.xm6680.it.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerEntityMixin",
+    "PlayerDropItemMixin",
+    "ServerPlayNetworkHandlerMixin",
+    "ScreenHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
